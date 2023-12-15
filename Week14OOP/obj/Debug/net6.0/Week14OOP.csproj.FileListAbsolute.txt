@@ -1,0 +1,15 @@
+/Users/kris/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/Week14OOP.csproj.AssemblyReference.cache
+/Users/kris/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/Week14OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kris/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/Week14OOP.AssemblyInfoInputs.cache
+/Users/kris/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/Week14OOP.AssemblyInfo.cs
+/Users/kris/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/Week14OOP.csproj.CoreCompileInputs.cache
+/Users/kris/Projects/Week14OOP/Week14OOP/bin/Debug/net6.0/Week14OOP
+/Users/kris/Projects/Week14OOP/Week14OOP/bin/Debug/net6.0/Week14OOP.deps.json
+/Users/kris/Projects/Week14OOP/Week14OOP/bin/Debug/net6.0/Week14OOP.runtimeconfig.json
+/Users/kris/Projects/Week14OOP/Week14OOP/bin/Debug/net6.0/Week14OOP.dll
+/Users/kris/Projects/Week14OOP/Week14OOP/bin/Debug/net6.0/Week14OOP.pdb
+/Users/kris/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/Week14OOP.dll
+/Users/kris/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/refint/Week14OOP.dll
+/Users/kris/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/Week14OOP.pdb
+/Users/kris/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/Week14OOP.genruntimeconfig.cache
+/Users/kris/Projects/Week14OOP/Week14OOP/obj/Debug/net6.0/ref/Week14OOP.dll
